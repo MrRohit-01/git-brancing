@@ -1,3 +1,3 @@
-console.log('version 1');
+console.log('version 2');
 a=5;
-alert(a + 'version 1');
+alert(a + 'version 2');
